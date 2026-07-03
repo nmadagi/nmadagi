@@ -14,7 +14,7 @@ I build hands-on analytics tools at the intersection of **quantitative risk, tre
 |---|---|---|
 | [Intraday Liquidity Management](https://github.com/nmadagi/intraday-liquidity-management) | USD central bank balance monitoring, BCBS 248 compliance, ML forecasting & stress testing | Python, Streamlit, scikit-learn |
 | [Market Risk DMM Engine](https://github.com/nmadagi/market-risk-dmm-engine) | Market risk data quality & validation with a 3-layer ML anomaly-detection ensemble and SQL query library | Python, Streamlit, SQL |
-| [Treasury ALM Quant Dashboard](https://github.com/nmadagi/usbank-treasury-alm-quant-dashboard) | Balance sheet forecasting, NII sensitivity, IRR, deposit behavior modeling & macro scenarios | Python, Streamlit |
+| [Treasury ALM Quant Dashboard](https://github.com/nmadagi/treasury-alm-quant-dashboard) | Balance sheet forecasting, NII sensitivity, IRR, deposit behavior modeling & macro scenarios | Python, Streamlit |
 | [Quant Analytics Engine](https://github.com/nmadagi/quant-analytics-engine) | Options pricing, VaR/risk analytics, Monte Carlo simulation & data-pipeline design | Python, Streamlit |
 | [Agentic AI Trading Engine](https://github.com/nmadagi/agentic-ai-trading-engine) | Multi-agent LLM trading system with backtesting and Alpaca paper trading | Python, LLM agents |
 | [CCAR Stress Testing](https://github.com/nmadagi/CCAR_stress_testing_project) | Multi-scenario stress testing & capital forecasting with automated management reporting | Python, Streamlit |
